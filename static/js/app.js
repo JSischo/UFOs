@@ -26,7 +26,7 @@ function buildTable(data) {
 
 function handleClick(){
     // Grab the datetime value from the filter
-    let date = d3.select(#datetime).property("value");
+    let date = d3.select("#datetime").property("value");
     let filteredData = tableData;
     
     // Check to see if a date was entered and filter the 
