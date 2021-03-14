@@ -31,7 +31,7 @@
 ## Summary
 #### Drawbacks
 
-One main concern with the existing filter is that the text must be exact. This could create filters that show as NULL results, when in fact there should be data for the specific criteria, they just don't pull due to syntax errors.
+One main concern with the existing filter is that the text entries must be exact matches. This could create filters that show as NULL results, when in fact there should be data for the specific criteria, they just don't pull due to syntax errors.
 
 #### Future Development
 
