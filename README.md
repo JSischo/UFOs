@@ -35,4 +35,6 @@ One main concern with the existing filter is that the text must be exact. This c
 
 #### Future Development
 
-One idea that may fix the problem stated above is to convert some of the text entry boxes to pull down menus that will be populated with the existing options in the database. 
+One idea that may fix the problem stated above is to convert some of the text entry boxes to pull down menus that will be populated with the existing options in the database.
+
+Another idea for future development of this project that would increase the user satisfaction with this site would be to add a "Download" button that would allow the user to capture the results of the filtered search to either a text editor file or excel/csv file.
