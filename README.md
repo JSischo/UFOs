@@ -20,7 +20,7 @@
 >
 >"Proper Syntax placeholders"
 >
->3. As you enter your filter criteria and press <ENTER>, you will see the table update to match your criteria. You may continue to enter further filter criteria to narrow down your search until you have the data that you desire. The image below shows the results obtained using the "date" and "state" filters as highlighted. 
+>3. As you enter your filter criteria and press ENTER, you will see the table update to match your criteria. You may continue to enter further filter criteria to narrow down your search until you have the data that you desire. The image below shows the results obtained using the "date" and "state" filters as highlighted. 
 >
 >![](static/images/filtered_results.png)
 >
@@ -30,4 +30,9 @@
 
 ## Summary
 #### Drawbacks
+
+One main concern with the existing filter is that the text must be exact. This could create filters that show as NULL results, when in fact there should be data for the specific criteria, they just don't pull due to syntax errors.
+
 #### Future Development
+
+One idea that may fix the problem stated above is to convert some of the text entry boxes to pull down menus that will be populated with the existing options in the database. 
