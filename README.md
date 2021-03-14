@@ -11,11 +11,21 @@
 >"Full Page"
 >
 >![](static/images/filter_image.png)
+>
 >"Filter Boxes"
 
->2. You may input any number of filters in the input boxes. MAKE SURE TO FOLLOW THE EXAMPLE SYNTAX AS PER THE PLACEHOLDER EXAMPLES.
->3. As you enter your filter criteria and press <ENTER>, you will see the table update to match your criteria. You may continue to enter further filter criteria to narrow down your search until you have the data that you desire. 
->4. You can reset the table and conduct another search by clicking on the "UFO Sightings" text at the upper left corner of the page.
+>2. You may input any number of filters in the input boxes. ***MAKE SURE TO FOLLOW THE EXAMPLE SYNTAX AS PER THE PLACEHOLDER EXAMPLES.*** See image below.
+>
+>![](static/images/syntax_image.png
+>
+>"Proper Syntax placeholders"
+>
+>3. As you enter your filter criteria and press <ENTER>, you will see the table update to match your criteria. You may continue to enter further filter criteria to narrow down your search until you have the data that you desire. The image below shows the results obtained using the "date" and "state" filters as highlighted. 
+>
+>![](static/images/filtered_results.png)
+>
+>4. You can reset the table and conduct another search by clicking on the "UFO Sightings" text at the upper left corner of the page. **See the below image.**
+>
 
 ## Summary
 #### Drawbacks
