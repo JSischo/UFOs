@@ -26,7 +26,7 @@
 >
 >4. You can reset the table and conduct another search by clicking on the "UFO Sightings" text at the upper left corner of the page. **See the below image.**
 >
->![](static/image/refresh_link.png)
+>![](static/images/refresh_link.png)
 
 ## Summary
 #### Drawbacks
