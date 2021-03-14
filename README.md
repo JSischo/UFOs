@@ -16,7 +16,7 @@
 
 >2. You may input any number of filters in the input boxes. ***MAKE SURE TO FOLLOW THE EXAMPLE SYNTAX AS PER THE PLACEHOLDER EXAMPLES.*** See image below.
 >
->![](static/images/syntax_image.png
+>![](static/images/syntax_image.png)
 >
 >"Proper Syntax placeholders"
 >
@@ -26,6 +26,7 @@
 >
 >4. You can reset the table and conduct another search by clicking on the "UFO Sightings" text at the upper left corner of the page. **See the below image.**
 >
+>![](static/image/refresh_link.png)
 
 ## Summary
 #### Drawbacks
